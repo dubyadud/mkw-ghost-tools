@@ -1,8 +1,8 @@
 # CTGP Leaderboard Library
 This library uses the CTGP-R Leaderboard from Chadsoft, via Chadderz's JSON interface.  
-**Credit PokeAcer549 when used**  
+**Credit [PokeAcer(549)](http://github.com/PokeAcer549) when used**  
 
-##Usage
+## Usage
 Use `class.ctgpLeaderboardsIndex.php` for any function labelled with [I].
 
 ## Functions

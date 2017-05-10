@@ -1,6 +1,6 @@
 # Wiimmfi Competitions
-This function library allows 
-**Credit http://github.com/PokeAcer549 when used**  
+This function library allows you to download and return competition text and data.
+**Credit [PokeAcer(549)](http://github.com/PokeAcer549) when used**  
 
 # Functions
 

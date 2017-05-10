@@ -1,6 +1,6 @@
 # Wiimmfi Leaderboard Library
 This library allows you to get results for ghosts and top10s from Wiimmfi's Leaderboards.
-**Credit PokeAcer when used**  
+**Credit [PokeAcer(549)](http://github.com/PokeAcer549) when used**  
 
 ## Usage
 To get the top10 (array) for a course:

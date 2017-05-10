@@ -46,14 +46,14 @@ $miidata = $rkg->getMiiData();
 ```
 All set variables are arrays.  
 
-##Array Data
+## Array Data
 
-###`$userdata`:  
+### `$userdata`:  
 `countryid`: country ID (list at http://wiibrew.org/wiki/Country_Codes) in integer form  
 `stateid`: unknown (probably location ID; i.e. in UK when one can pick Wales vs England), integer.  
 `name`: String of Mii name (careful! this can have things like HTTP code in aswell as MKW-only characters)  
 
-###`$metadata`:
+### `$metadata`:
 `magic`: should always be 'RKGD'  
 `time`: multi-dimensional array: `minutes`,`seconds`,`milliseconds` (integers)  
 `trackID`: ID of track (0-31?)  
@@ -67,10 +67,10 @@ All set variables are arrays.
 `inputDataLength`: (if you were using the input data) how long is it?  
 
 
-###`$miidata`:
+### `$miidata`:
 Your Mii file (no encoding or similar).  
 
-###`$laps`:
+### `$laps`:
 `lapcount`: How many laps (1-5; any past 5 will not show because of MKW)  
 `lapTimes`: multi-dimensional array, see below:  
 `x`: Lap x (0-4):  
