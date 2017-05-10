@@ -1,4 +1,4 @@
-# mkw-ghost-tools
+# Mario Kart Wii Network Tools
 ![AGPL v3 Logo](https://upload.wikimedia.org/wikipedia/commons/0/06/AGPLv3_Logo.svg "This software is licensed under the AGPL v3 License.")
 
 These are a set of PHP files that allow for playing about with various Mario Kart Wii online services, such as Top 10s (RACE), Competitions (also RACE), and ChadSoft's third-party Top10s.
